@@ -1,0 +1,5 @@
+asound          for the speaker
+ncurses         for menu system
+neovim          for better cpp editing
+pigpio          for wiring GPIO pins
+pulseaudio      for RaspiLite audio driver

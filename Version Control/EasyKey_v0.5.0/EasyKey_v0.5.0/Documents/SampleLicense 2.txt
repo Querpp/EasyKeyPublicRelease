@@ -1,0 +1,168 @@
+## EasyKey Samples - License & Attribution
+
+### Overview
+The EasyKey Samples package contains a collection of audio samples categorized by instrument and sound type. These samples are intended for use in music production, sound design, and other creative applications.
+
+### Sample Categories
+#### Synths
+- **Arps**
+  - Bpm140_Am_Arp01
+  - Cymatics - Arp Loop 3 - 150 BPM D Min
+  - Cymatics - Arp Loop 97 - 128 BPM Bmin
+  - Cymatics - Titan Arp Loop 1 - 100 BPM C Min
+  - Cymatics - Titan Arp Loop 13 - 140 BPM C Min
+
+- **Basses**
+  - Querpp Growl Bass
+  - Antidote 808 9 E
+  - Antidote Hybrid Pack - 808 13 F#
+  - BA_Bass_Eb_Undercarriage
+  - Bass Fill 1 D 140 BPM
+  - CodePandorum - we are children of
+  - FHB_Bass_Loop_18_Am_128
+  - Ghosthack - 140 Machine Gun2 X
+  - Heavyhearted - Bass 01 E2 120bpm
+  - INFEKT_bass_triplets
+  - Meurte_145_D_DREPE
+  - Querpp_BassShot_Gronkle_4
+  - Querpp_BassShot_Gronkle_6
+  - Querpp_BassShot_JabbyJabby_6
+  - Querpp_BassShot_Metallic_3
+  - VRTL_RT_BASS_SHOT_Acid
+  - V_RIOT_MDSTP_bass_shot_morebristol_01
+  - V_RIOT_MDSTP_bass_shot_savannah_10
+  - V_RIOT_bass_one_shot_growl_down_02
+  - V_RIOT_bass_one_shot_ten_ten_04_F
+
+- **Leads**
+  - Bpm140_A_Sine05a
+  - Bpm140_E_AlmostAnalog
+  - DnB_music13_loop_lead_170_Dmin
+  - F#_160_Neptune2
+  - E_160_Future1
+  - Ghosthack - Lead 2 One Up (E)
+  - Ghosthack Loop - 130bpm G - Basspluck Conga
+  - psy trance synth
+
+- **Pads**
+  - 75_Atmospherics_F Minor
+  - 75_G Minor(4)
+  - Death Whistle
+  - FF_Drone_3
+  - FF_SunScreen_2
+  - Ghosthack - Atmosphere_140_Cm_Muffled
+  - V_RIOT_MDSTP_fx_pad_cymbalscrape_pad_02_E
+  - V_RIOT_synth_loop_atmosphere_pad_150_F
+
+### Instruments
+- **Brass**
+  - Bpm150_G_WreakHavoc_Trombs
+  - FL-Miles Lick Wet 07.wav
+  - GH_FS_Horns One Hits_10_Dmaj7
+  - LSATRB_Loadstone_Brass_140BPM_Gm
+  - MoonHoochAndrewHuang_sax_loop_bold_1_140_Fmin
+
+- **Choir**
+  - Bpm120_C#m_Honor_Him_01
+  - Creepy-vocal-loop-haunting_111bpm_C_minor
+  - Epic
+  - Scary
+  - The big uhm
+
+- **Strings**
+  - Cello-one-shot-e1_E_major
+  - Ghosthack_Viola Spic 4_D3
+  - GH_FS_Strings_3_80_Emaj_Strings
+  - Ghosthack_Violins Tremolo 8_G2
+  - Meurte_140_Db_StringStab
+
+- **Harp**
+  - Bpm90_Dm_Explore_The_3_4_01
+  - GH_FS_Harp One Hits_1_C5
+  - Harp-trap-melancholic_90bpm_E_minor
+  - Dark-plucked-harp_107bpm_C_major
+
+- **Guitar**
+  - Cymatics - Broken - 100 BPM G# Min
+  - FHB_Piano_Loop_02_G#m_128_Bass
+  - GS_GTR_Arps_2_F#m
+  - GS_GT_Acoustic Arpeggios_1_Gm11
+  - GS_GTR_Guitar Slides_3_C#
+
+### Drums
+- **Kicks**
+  - acoustic-kick-3
+  - AndrewHuang_SharedSystem_kick_one_shot_round_2_Bb
+  - Antidote Audio - Dubstep Kick 04
+  - CLAUDE - Kick03
+  - DnB_kick16_oneshot_C
+  - Ghosthack - Trap Kick 2
+  - Ghosthack Hip Hop Kick 19
+  - hardstyle
+  - oddlogic - PO-32 Kick 2 #12
+  - Trance Kick 1
+
+- **Snares**
+  - acoustic-dry-snare
+  - Antidote Snare 12
+  - Apollo Snare 3
+  - BA_Snare_Ultimate
+  - BRLY_ALV_MORE_DRUMS_80skit_Tom_Arnold
+  - Cymatics - Cobra Snare 4 - F
+  - Cymatics - Lofi Snare 4 - E
+  - Cymatics - Lofi Snare 14 - A
+  - Explosion snare
+  - Glorkglunk - Snare Pan 8
+
+- **Claps**
+  - Getter Dubstep is Dead Clap
+  - BA_clap_purevital
+  - Clap_004
+
+- **Crashes**
+  - Epic-short-crash-one-shot_A_minor
+  - Hard-cymbal-crash_130bpm_C_major
+  - BA_Crash_Fooshy
+
+- **Hi Hats**
+  - Cymatics - Lofi Closed Hihat 2
+  - Cymatics - Master Collection Open Hihat 2
+  - Cymatics - Terror Closed Hi Hat 015
+  - Hat 17
+  - nut.fm_bd_hat_closed5
+
+### Miscellaneous
+- **FX and Special Sounds**
+  - Antidote Audio - 150BPM Loop 08
+  - DnB_misc01_oneshot
+  - dramatic-pipa-rise_D#_major
+  - DJ Airhorn Sound Effect
+  - Party Horn Sound Effect
+  - Slide Whistle 3 - Sound Effect
+  - Animal_chicken
+  - Animal_Goat
+  - Animal_lions-growl
+  - Clown Horn
+  - Querpp_Creak
+  - Querpp_Gate_Groan_1
+  - Querpp_Impact_1
+  - S!NK
+  - River Sounds
+  - SpiderverseProwlerGrowl
+  - V_RIOT_synth_one_shot_war_horn_01_F
+  - V_RIOT_synth_one_shot_music_box_01_C
+  
+---
+
+### Usage Terms
+This sample library is provided for use in music production, sound design, and other creative projects.
+While some samples are owned by EasyKey, others are distributed under licenses that permit their use and redistribution.
+
+Users are free to edit, modify, and incorporate these samples into their own works.
+However, direct redistribution or resale of the raw, unaltered samples is prohibited.
+Please refer to the individual sample licenses for any attribution requirements.
+
+By using this library, you agree to comply with all applicable licensing terms.
+
+© 2025 EasyKey Samples. All rights reserved.
+

@@ -1,0 +1,24 @@
+
+## Paths.cpp
+Only use home/easykey lines within pathing functions
+
+## AudioPlayer.cpp
+line 7 - Change 'afplay' to 'aplay'
+
+## Global Variables.h
+line 18 - #include <pigpio.h>
+line 5 - #include <alsa/asoundlib.h>
+
+## main.cpp
+Uncomment all the GPIO and ADC stuff
+Uncomment gpioTerminate at end of file
+Uncomment wgtch at start of while loop
+Uncomment button call
+Include buttons
+87 for raspi, X/Y = 0
+
+## Knobs.cpp
+uncomment readPot()
+
+## Buttons
+uncomment everything

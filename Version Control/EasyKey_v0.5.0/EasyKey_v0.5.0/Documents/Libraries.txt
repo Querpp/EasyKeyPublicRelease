@@ -1,0 +1,4 @@
+asound          for the speaker
+ncurses         for menu system
+pigpio          for wiring GPIO pins
+pulseaudio      for RaspiLite audio driver

@@ -1,0 +1,46 @@
+# System and USB Management
+sudo mkdir -p /mnt/usb                          # Allows USB mounting
+sudo mount /dev/sda1 /mnt/usb                   # Mounts USB
+cd /mnt/usb                                     # Change directory to USB
+cp -r /mnt/usb/* /home/easykey                  # Copies entire USB
+
+
+# File and Directory Operations
+mv /path/to/source/file /path/to/destination/   # Moves file to folder
+rm -rf my_directory                             # Deletes directory
+sudo rm -r /path/to/directory/*                 # Deletes everything within a folder
+
+
+# Compilation Commands
+g++ *.cpp -o output_program                     # Compiles entire folder
+g++ -o output_name source_file.cpp              # Compiles file
+g++ -std=c++11 -o main *.cpp -lncurses          # Compiles with ncurses
+
+
+# Disk and System Info
+df -h                                          # Lists devices
+lsblk                                          # Lists block devices (alternative to diskutil list)
+
+
+# Power Management
+sudo poweroff                                  # Powers off device
+sudo reboot                                    # Restarts device
+
+
+# Package Management
+sudo apt update                                # Updates package lists
+sudo apt install libncurses5-dev libncursesw5-dev  # Installs ncurses library
+sudo apt install neovim -y                     # Installs Neovim
+sudo apt install -y pulseaudio                 # Installs PulseAudio
+
+
+# Neovim Commands
+nvim yourfile.cpp                              # Opens file in Neovim
+:q                                             # Exits Neovim
+
+
+# Audio Commands
+sudo amixer -c 1 cset numid=3 2                # Sets audio output to specific device
+pulseaudio -k                                  # Kills PulseAudio daemon
+pulseaudio --start                             # Starts PulseAudio daemon
+aplay Arp_1.wav                                # Plays a .wav file

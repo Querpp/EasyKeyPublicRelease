@@ -1,0 +1,211 @@
+1
+    2
+        3
+            4
+                5
+Apply Changes
+Effects
+    Distortion
+    Phaser
+    Flanger
+    Filter
+        Display Filter Settings
+            Current Cutoff frequency: 600 Hz
+            Current Slope: 6 db/oct
+        Edit Lowpass Frequency
+            Press up or down to change frequency in Hz. Press q to exit
+        Edit Lowpass Slope
+            Press up or down to change frequency in Hz. Press q to exit
+    Echo
+    Reverb
+Synthesizer Mode
+    Choose Waveform
+        Saw
+        Square
+        Sine
+        Glorkglunk
+        Drum Fill
+        Dune
+Sampler Mode
+    Record Sample
+	Choose Sample
+        Synths
+            Arps
+                Arp 1
+                Arp 2
+                Arp 3
+                Arp 4
+                Arp 5
+            Basses
+                Bass 1
+                Bass 2
+                Bass 3
+                Bass 4
+                Bass 4
+                Bass 6
+                Bass 7
+                Bass 8
+                Bass 9
+                Bass 10
+                Bass 11
+                Bass 12
+                Bass 13
+                Bass 14
+                Bass 15
+                Bass 16
+                Bass 17
+                Bass 18
+                Bass 19
+                Bass 20
+            Leads
+                Lead 1
+                Lead 2
+                Lead 3
+                Lead 4
+                Lead 5
+                Lead 6
+                Lead 7
+                Lead 8
+            Pads
+                Pad 1
+                Pad 2
+                Pad 3
+                Pad 4
+                Pad 5
+                Pad 6
+                Pad 7
+                Pad 8
+        Instruments
+            Brass
+                Brass 1
+                Brass 2
+                Brass 3
+                Brass 4
+                Brass 5
+            Choir
+                Choir 1
+                Choir 2
+                Choir 3
+                Choir 4
+                Choir 5
+            Strings
+                Strings 1
+                Strings 2
+                Strings 3
+                Strings 4
+                Strings 5
+            Harp
+                Harp 1
+                Harp 2
+                Harp 3
+                Harp 4
+            Guitar
+                Guitar 1
+                Guitar 2
+                Guitar 3
+                Guitar 4
+                Guitar 5
+        Drums
+            Kicks
+                Kick 1
+                Kick 2
+                Kick 3
+                Kick 4
+                Kick 5
+                Kick 6
+                Kick 7
+                Kick 8
+                Kick 9
+                Kick 10
+            Snares
+                Snare 1
+                Snare 2
+                Snare 3
+                Snare 4
+                Snare 5
+                Snare 6
+                Snare 7
+                Snare 8
+                Snare 9
+                Snare 10
+            Claps
+                Clap 1
+                Clap 2
+                Clap 3
+            Crashes
+                Crash 1
+                Crash 2
+                Crash 3
+            HiHats
+                HiHat 1
+                HiHat 2
+                HiHat 3
+                HiHat 4
+                HiHat 5
+            Rides
+                Ride 1
+                Ride 2
+                Ride 3
+                Ride 4
+                Ride 5
+            Toms
+                Tom 1
+                Tom 2
+                Tom 3
+                Tom 4
+                Tom 5
+            Other
+                Other 1
+                Other 2
+                Other 3
+                Other 4
+                Other 5
+        Misc.
+            Misc 1
+            Misc 2
+            Misc 3
+            Misc 4
+            Misc 5
+            Misc 6
+            Misc 7
+            Misc 8
+            Misc 9
+            Misc 10
+            Misc 11
+            Misc 12
+            Misc 13
+            Misc 14
+            Misc 15
+            Misc 16
+            Misc 17
+            Misc 18
+Presets
+    View Presets
+        Preset #: B7Sh3
+        Preset #: M8x1q
+	Save as Preset
+		Your Preset is:
+Song Builder
+    New Song
+    Load Song
+        Song 1: 42dj9
+        Song 2: M5Cs0
+    Record Sequence
+        Press any key (Press 'q' to quit):
+	Delete Sequence
+		Take 1: 8bA7m
+		Take 2: VB8fj
+	Delete Song
+		Song 1: 42dj9
+		Song 2: M5Cs0
+LFO Mappings
+    Create LFO
+	Display Mappings
+		LFO_1 -> DistortionDrive
+		LFO_1 -> EchoFrequency
+		LFO_2 -> FlangerRate
+	Remove Mappings
+		LFO_1 -> DistortionDrive
+		LFO_1 -> EchoFrequency
+		LFO_2 -> FlangerRate
+Exit

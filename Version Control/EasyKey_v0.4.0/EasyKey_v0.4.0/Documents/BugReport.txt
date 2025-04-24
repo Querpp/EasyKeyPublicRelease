@@ -1,0 +1,20 @@
+
+-- BUGS / TO-DO --
+
+Deleting vector items is hazardous
+Instructions for changing frequency display after quitting UpDownMode
+Nothing in song builder works
+Rename all force/drive to mix in code and documents
+Reverb has to convert 0-99 into 0.2 - 10 seconds
+Sampler has no usage
+
+
+
+
+
+-- WARNINGS -- 
+
+No build target for makefile in Xcode
+
+Source/DSP_Effects/Filter.cpp:64:16: warning: variable 'imagPart' set but not used [-Wunused-but-set-variable]
+   64 |         double imagPart = 0.0
